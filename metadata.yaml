@@ -1,5 +1,8 @@
 _repo: A-Short-History-of-Wales_3260
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 3260-h/images/coverb.jpg
 creator:
   author:
     agent_name: Edwards, Owen Morgan, Sir
@@ -15,6 +18,8 @@ description: Cover; Front matter; Title page; Copyright page; Body matter; Intro
   XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII; Chapter XIX; Chapter
   XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV; Chapter XXV; An Outline
   Of Welsh P[olitical History; Appendix And Footnotes;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3260#A-Short-History-of-Wales
 gutenberg_bookshelf:
 - United Kingdom
 - Children's History
